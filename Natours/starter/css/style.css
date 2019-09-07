@@ -84,6 +84,7 @@ header {
     font-size: 20px;
     font-weight: 700;
     letter-spacing: 17.4px;
+    line-height: 1.8;
 
     animation: moveInright 1s ease-out;
     
